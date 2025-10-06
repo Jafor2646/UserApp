@@ -25,4 +25,7 @@
     <string name="other">Other</string>
     <string name="cancel">Cancel</string>
     <string name="save">Save</string>
+    <string name="add_new_user">Add New User</string>
+    <string name="user_app">User App</string>
+    <string name="no_users_added_yet">No users added yet</string>
 </resources>
